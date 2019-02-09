@@ -5,4 +5,4 @@ Programs written for graduate Python for Bioinformatics course.
  - classes_methods_and_unittests_biosequences.py: define nucleotide and protein sequence classes, relevant methods to perform computation and analysis, and unit tests to confirm methods
  - protein_fasta1 and protein_fasta2: fasta files used in unit tests in classes_methods_and_unittests_biosequences.py
  - fetching_ncbi_data: search for NCBI records by keyword, write to .fasta or .gb file, then parse file for name, sequence, and annotations summary
-
+- search_genes_retrieve_protein.py: search proteins by relevant genes, print proteins to fasta, run BLAST alignment/search on proteins, then print BLAST results to DataFrame
